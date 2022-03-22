@@ -1,0 +1,17 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+build
+docker
+
+#Hardhat files
+cache
+artifacts
+
+#aux files
+imgnft.json
+imgnftb64.json
+.DS_Store
+
